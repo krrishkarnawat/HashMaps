@@ -1,8 +1,3 @@
-// --== CS400 Project One File Header ==--
-// Name: Krrish Karnawat
-// CSL Username: krrish
-// Email: kkarnawat@wisc.edu
-// Lecture #:  003 @2:25pm
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
